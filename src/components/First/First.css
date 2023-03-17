@@ -1,0 +1,24 @@
+.first-parallax {
+  margin: 0;
+  padding: 0;
+}
+
+.first-letter {
+  width: 100%;
+  height: 100vh;
+  z-index: 0;
+}
+.first-welcome {
+  font-family: "Hogwarts";
+  position: absolute;
+  top: 25%;
+  left: 49%;
+  font-size: 3rem;
+  background-color: rgba(36, 50, 67, 0.9);
+  color: #fff;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+}
+.first-welcome span {
+  margin-left: 4rem;
+}
